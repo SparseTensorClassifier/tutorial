@@ -7,9 +7,4 @@ This dataset consists of 101 animals from a zoo. There are 16 variables with var
 UCI Machine Learning Repository: <https://archive.ics.uci.edu/ml/datasets/Zoo>
 
 - Creator: Richard Forsyth
-- Donor: Richard S. Forsyth
-  8 Grosvenor Avenue
-  Mapperley Park
-  Nottingham NG3 5DX
-  0602-621676
 - Date: 5/15/1990
