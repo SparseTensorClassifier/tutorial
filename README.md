@@ -6,5 +6,7 @@ The algorithm is implemented in SQL and made available via the Python module `st
 
 ## You Will Learn
 
-- [Part 1: The Basic Usage](https://github.com/SparseTensorClassifier/tutorial/blob/main/Get_Started.ipynb)
+- [Part 1: The Basic Usage](./Get_Started.ipynb)
 
+- ...
+- [Part 9: Text Classification on 20Newsgroups](./Text_Classification_20Newsgroups.ipynb)
