@@ -8,8 +8,8 @@ The algorithm is implemented in SQL and made available via the Python module `st
 
 ### Quickstart
 
-- [Part 1: Get started with Sparse Tensor Classifier](https://github.com/SparseTensorClassifier/tutorial/blob/main/Get_Started.ipynb)
-- [Part 2: Run Sparse Tensor Classifier on DBMS](https://github.com/SparseTensorClassifier/tutorial/blob/main/Connect_DBMS.ipynb)
+- [Part 1: Get started with Sparse Tensor Classifier](https://github.com/SparseTensorClassifier/tutorial/blob/main/Quickstart.ipynb)
+- [Part 2: Run Sparse Tensor Classifier on DBMS](https://github.com/SparseTensorClassifier/tutorial/blob/main/Quickstart_DBMS.ipynb)
 
 ### Explainability
 
