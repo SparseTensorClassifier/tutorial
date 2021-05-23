@@ -6,7 +6,17 @@ The algorithm is implemented in SQL and made available via the Python module `st
 
 ## You Will Learn
 
-- [Part 1: The Basic Usage](./Get_Started.ipynb)
+### Quickstart
 
-- ...
-- [Part 9: Text Classification on 20Newsgroups](./Text_Classification_20Newsgroups.ipynb)
+- [Part 1: Get started with Sparse Tensor Classifier](https://github.com/SparseTensorClassifier/tutorial/blob/main/Get_Started.ipynb)
+- [Part 2: Run Sparse Tensor Classifier on DBMS](https://github.com/SparseTensorClassifier/tutorial/blob/main/Connect_DBMS.ipynb)
+
+### Explainability
+
+- [Part 1: Explain Sparse Tensor Classifier (single dimension)](https://github.com/SparseTensorClassifier/tutorial/blob/main/Explain_Single_Dimension_Zoo.ipynb)
+- [Part 2: Explain Sparse Tensor Classifier (multiple dimensions)](https://github.com/SparseTensorClassifier/tutorial/blob/main/Explain_Multi_Dimension_Zoo.ipynb)
+
+### Text Classification
+
+- [Part 1: Text Classification on 20Newsgroups](https://github.com/SparseTensorClassifier/tutorial/blob/main/Text_Classification_20Newsgroups.ipynb)
+
