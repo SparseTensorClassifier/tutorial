@@ -9,7 +9,12 @@ The algorithm is implemented in SQL and made available via the Python module `st
 ### Quickstart
 
 - [Part 1: Get started with Sparse Tensor Classifier](https://github.com/SparseTensorClassifier/tutorial/blob/main/Quickstart.ipynb)
-- [Part 2: Run Sparse Tensor Classifier on DBMS](https://github.com/SparseTensorClassifier/tutorial/blob/main/Quickstart_DBMS.ipynb)
+- Part 2: The Sparse Tensor Classifier Input Data Format
+- Part 3: The Sparse Tensor Classifier Hyperparameters
+- Part 4: The Sparse Tensor Classifier Policy
+- Part 5: Handle Missing Values with Sparse Tensor Classifier
+- Part 6: Handle Multi-Label Classification with Sparse Tensor Classifier
+- [Part 7: Run Sparse Tensor Classifier in-Database](https://github.com/SparseTensorClassifier/tutorial/blob/main/Quickstart_DBMS.ipynb)
 
 ### Explainability
 
