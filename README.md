@@ -1,6 +1,6 @@
 # Step-by-Step Tutorial and Use-Cases
 
-In this tutorial series, you'll learn how to use [Sparse Tensor Classifier (STC)](https://sparsetensorclassifier.org/references.html), a supervised classification algorithm for categorical data inspired by the notion of superposition of states in quantum physics. It supports multiclass and multilabel classification, online learning, prior knowledge, automatic dataset balancing, missing data, and provides a native explanation of its predictions both for single instances and for each target class label globally. 
+In this tutorial series, you'll learn how to use [Sparse Tensor Classifier (STC)](https://sparsetensorclassifier.org/references.html), a supervised classification algorithm for categorical data inspired by the notion of superposition of states in quantum physics. 
 
 ## You Will Learn
 
@@ -19,5 +19,5 @@ In this tutorial series, you'll learn how to use [Sparse Tensor Classifier (STC)
 
 ### And More to be Added...
 
-- **Want to contribute a notebook using STC?** Open an [issue](https://github.com/SparseTensorClassifier/tutorial/issues) or create a [pull request](https://github.com/SparseTensorClassifier/tutorial/pulls). Thanks!
+- **Want to contribute a notebook using STC?** Open an [issue](https://github.com/SparseTensorClassifier/tutorial/issues) or create a [pull request](https://github.com/SparseTensorClassifier/tutorial/pulls)
 
